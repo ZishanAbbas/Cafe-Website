@@ -26,13 +26,13 @@ const Location = () => {
         {/* Right Side - Google Maps Link */}
         <div className="md:w-1/2 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/FCigcXsJGALtQBfT7"
+            href="https://maps.app.goo.gl/rMywgoBLVbFNraGw7"
             target="_blank"
             rel="noopener noreferrer"
             className="relative w-full h-64 md:h-80 rounded-lg overflow-hidden shadow-lg hover:scale-102 transition-transform duration-300"
           >
             <img
-              src="./public/location1.png"
+              src="./public/images/location1.png"
               alt="Cafe Location"
               className="w-full h-full object-cover"
             />
