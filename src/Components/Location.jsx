@@ -34,7 +34,7 @@ const Location = () => {
             className="relative w-full h-64 md:h-80 rounded-lg overflow-hidden shadow-lg hover:scale-102 transition-transform duration-300"
           >
             <img
-              src={img7}
+              src="./public/images/location1.png"
               alt="Cafe Location"
               className="w-full h-full object-cover"
             />
